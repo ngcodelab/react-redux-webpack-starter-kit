@@ -1,2 +1,12 @@
 # react-redux-webpack-starter-kit
-React-Redux-Webpack Starter Kit with a Working Example
+
+A Start Kit for Frontend Development Using React, Redux and Webpack. The kit contains a working example.
+
+
+# Getting Started
+
+```
+> npm install
+> node start
+
+```
